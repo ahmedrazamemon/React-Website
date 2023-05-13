@@ -1,0 +1,113 @@
+body {
+    margin-top: 0;
+    padding: 0;
+    background-color: rgb(169, 170, 144);
+
+}
+
+.container {
+    /* color: white; */
+    text-align: center;
+    width: auto;
+    background-color: cadetblue;
+
+}
+
+#c1 {
+
+    padding-left: 50px;
+}
+
+figcaption .a {
+
+    text-decoration: none;
+    color: white !important;
+
+}
+
+/* Form  Form  Form  Form  Form  Form  Form  Form  Form */
+
+
+
+#form {
+    margin: auto;
+    padding: 20px;
+    display: block;
+    width: 80%;
+    /* border: 2px solid; */
+
+}
+
+#map {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    border: 2px solid;
+}
+
+/* Form  Form  Form  Form  Form  Form  Form  Form  Form */
+
+.footer p{
+    text-decoration: none !important;
+    display:inline-flex;
+    font-size: 37px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width: auto;
+}
+
+#images {
+    border-radius: 40px;
+    border: 1px solid silver;
+    margin-top: 30px !important;
+    width: 400px !important;
+    margin: auto;
+    height: 400px;
+}
+
+.container .a {
+    margin-left: 50px !important;
+    display: inline-flex;
+    list-style: none;
+}
+
+.container .a {
+    text-decoration: none;
+    color: white;
+}
+
+.container .a {
+    width: 140px;
+    margin: 5px;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.container .a:hover {
+    border: 2px solid cadetblue;
+    background-color: rgb(114, 130, 131);
+    color: aliceblue;
+    padding: 6px;
+    border-radius: 9px;
+}
+h1,h2{
+    text-align: center;
+}
+h3 {
+    padding: 30px;
+    display: inline-flex;
+    background-color: rgb(60, 59, 59);
+}
+
+.footer p .link {
+    font-size: 40px;
+    /* margin-left:100px; */
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    /* color: rgb(43, 65, 210); */
+
+    /* background-color: white !important; */
+}
